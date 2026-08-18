@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/sarankumar1325/sarankumar1325/main/assets/banner.gif" alt="Saran Kumar S. - Applied AI Engineer" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
-  
+ 
   <h1>Hi there, I'm Saran Kumar S.</h1>
-  
-  <p><strong>Applied AI Engineer (MTS-1) @ <a href="https://goml.io">goML</a></strong></p>
+ 
+  <p><strong>Applied AI Engineer (MTS-1)</strong></p>
   <p>Building production-grade Generative AI systems, RAG applications, and intelligent agents.</p>
-
   <a href="https://www.swsarancodes.online/">
     <img src="https://img.shields.io/badge/Website-swsarancodes.online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
@@ -20,17 +19,16 @@
 ---
 
 ### About Me
-- Recent Graduate turned MTS-1 at goML, shipping real client MVPs in Generative AI.
+- Recent Graduate turned MTS-1, shipping real client MVPs in Generative AI.
 - Focused on turning complex AI research into reliable, scalable production systems.
 - Currently working on review-based RAG systems, multi-agent workflows, and inference optimization.
 
-### Current Work @ goML
+### Current Work
 - Spokesfan — Review-based RAG Chat Application (Live MVP in progress)
 - FleetFare — Successfully delivered client project
 - Building internal tools and scalable AI pipelines
 
 ### Tech Stack
-
 <div align="center">
 
 **Core**  
@@ -40,12 +38,12 @@
 **AI / ML**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B00?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 RAG • Agents • LLMs • Embeddings • Vector DBs
 
 **Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 FastAPI • PostgreSQL • MongoDB
 
 </div>
@@ -66,7 +64,6 @@ FastAPI • PostgreSQL • MongoDB
 ---
 
 ### Let's Connect
-- **Professional Email**: sarankumar.s@goml.io
 - **Portfolio**: [swsarancodes.online](https://www.swsarancodes.online/)
 - **LinkedIn** • **X** • **GitHub**
 
