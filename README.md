@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
 **AI & ML**&nbsp;&nbsp;
@@ -46,12 +45,16 @@
 
 <div align="center">
 
-### Dynamic Repository Showcase
+### Featured Repositories
 
 | Repository | Description | Stars | Language |
 | :--- | :--- | :---: | :---: |
-| [**`swsarancodes`**](https://github.com/swsarancodes/swsarancodes) | Special profile configuration and portfolio repository | ![](https://img.shields.io/github/stars/swsarancodes/swsarancodes?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/swsarancodes?style=flat-square&label=&color=0A66C2) |
-| [**`aws-prep-app`**](https://github.com/swsarancodes/aws-prep-app) | AWS certification prep engine built with Vite, React, and Bun | ![](https://img.shields.io/github/stars/swsarancodes/aws-prep-app?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/aws-prep-app?style=flat-square&label=&color=0A66C2) |
+| [**`AWS-AGENTIC-ARCHITECTURES`**](https://github.com/swsarancodes/AWS-AGENTIC-ARCHITECTURES) | Enterprise architectural designs and implementations for Agentic AI workflows on AWS | ![](https://img.shields.io/github/stars/swsarancodes/AWS-AGENTIC-ARCHITECTURES?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/AWS-AGENTIC-ARCHITECTURES?style=flat-square&label=&color=0A66C2) |
+| [**`MCP-SERVER-`**](https://github.com/swsarancodes/MCP-SERVER-) | Direct implementation guide and server runtime for Model Context Protocol (MCP) | ![](https://img.shields.io/github/stars/swsarancodes/MCP-SERVER-?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/MCP-SERVER-?style=flat-square&label=&color=0A66C2) |
+| [**`TODO-STRANDS-AGENT`**](https://github.com/swsarancodes/TODO-STRANDS-AGENT) | Autonomous agentic task and strand management execution pipeline | ![](https://img.shields.io/github/stars/swsarancodes/TODO-STRANDS-AGENT?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/TODO-STRANDS-AGENT?style=flat-square&label=&color=0A66C2) |
+| [**`SUPABASE-SYNTHETIC-DATA-GENERATOR`**](https://github.com/swsarancodes/SUPABASE-SYNTHETIC-DATA-GENERATOR) | Automated high-fidelity relational synthetic data generator tailored for Supabase | ![](https://img.shields.io/github/stars/swsarancodes/SUPABASE-SYNTHETIC-DATA-GENERATOR?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/SUPABASE-SYNTHETIC-DATA-GENERATOR?style=flat-square&label=&color=0A66C2) |
+| [**`URL-SHORTNER`**](https://github.com/swsarancodes/URL-SHORTNER) | Full-featured custom URL shortener service built from scratch | ![](https://img.shields.io/github/stars/swsarancodes/URL-SHORTNER?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/URL-SHORTNER?style=flat-square&label=&color=0A66C2) |
+| [**`FASTAPI`**](https://github.com/swsarancodes/FASTAPI) | Handcrafted production-oriented patterns, middleware, and routers in FastAPI | ![](https://img.shields.io/github/stars/swsarancodes/FASTAPI?style=flat-square&logo=github&label=&color=0A66C2) | ![](https://img.shields.io/github/languages/top/swsarancodes/FASTAPI?style=flat-square&label=&color=0A66C2) |
 
 </div>
 
